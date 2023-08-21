@@ -18,6 +18,7 @@ java_plugin(
     visibility = ["//visibility:private"],
     deps = [
         artifact("com.google.auto.service:auto-service"),
+        artifact("com.azure:azure-identity"),
     ],
 )
 

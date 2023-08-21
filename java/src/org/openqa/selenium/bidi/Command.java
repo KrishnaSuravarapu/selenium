@@ -17,6 +17,7 @@
 
 package org.openqa.selenium.bidi;
 
+import com.azure.identity.*;
 import com.google.common.collect.ImmutableMap;
 import java.lang.reflect.Type;
 import java.util.Map;
